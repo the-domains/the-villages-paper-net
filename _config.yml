@@ -6,9 +6,9 @@ color:
   saturation: 0.7302387391682714
   rhythmicContrast: 0.09149171318858862
   brandColors:
-    - '#E6E2AF'
-    - '#A7A37E'
-    - '#EFECCA'
-    - '#046380'
-    - '#002F2F'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: The Villages Paper Net
