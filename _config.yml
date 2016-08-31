@@ -1,4 +1,3 @@
-layout_spectrum: 0.2793255599681288
 typography_spectrum: 0.17112969094887376
 color:
   brandStrength: 0.5024176191072911
@@ -6,9 +5,11 @@ color:
   saturation: 0.7302387391682714
   rhythmicContrast: 0.09149171318858862
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+layout_spectrum: 0.2793255599681288
 name: The Villages Paper Net
+title: The Villages paper net
